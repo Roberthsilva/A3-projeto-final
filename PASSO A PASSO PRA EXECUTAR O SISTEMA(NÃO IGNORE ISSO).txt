@@ -1,0 +1,22 @@
+PASSO 1
+Baixar o arquivo "interfaceA3"(nesse arquivo está presente o projeto inteiro, exceto o banco de dados!).
+
+PASSO 2
+Baixar o arquivo "DB"(nesse arquivo está presente o código em sql, do banco de dados conectado com o sistema).
+
+PASSO 3
+Executar o código que está contido no arquivo "DB" em uma ide de MySql, assim o banco será criado.
+
+PASSO 4
+Abrir o arquivo "interfaceA3" e executar a tela "telaLogin" que está no pacote "VIEW", depois é só seguir o fluxo do sistema.
+
+OBSERVAÇÕES: 
+- Dados do usuário, e os dados que o usuário inserir em tabelas contidas no sistema, estarão todos no banco de dados.
+- A função "Excluir" e "Alterar" das tabelas não foram implementadas por falta de tempo, apoio do restante do grupo e competência com o tempo estabelecido por vocês professores, peço perdão por isso, e espero que possamos fazer melhor ao longo do tempo.
+- Caso o sistema não se conecte com o banco de dados, favor chegar a porta que o banco está em seu servidor local, e alterar no arquivo "Conexao", contido no pacote Repository
+- Caso o problema persista, cheque o usuário e a senha do servidor local, e mude de acordo com o servidor local de sua máquina, isso pode ser mudado no mesmo arquivo de "Conexao", contido no pacote Repository.
+
+
+OBRIGADO PELA ATENÇÃO
+
+Remetente: Roberth Ylan da Silva Santana
